@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d5a7ac9a.css",
+    "main.js": "/static/js/main.a30899e4.js",
+    "static/js/453.3576ec4f.chunk.js": "/static/js/453.3576ec4f.chunk.js",
+    "static/media/AVM_One.JPG": "/static/media/AVM_One.2e5fa4cac6436a7f288b.JPG",
+    "static/media/About.png": "/static/media/About.bc14a1b755bb9116da94.png",
+    "static/media/bgff_gball_logo.jpg": "/static/media/bgff_gball_logo.867ac76b73f7b8eb9cb2.jpg",
+    "static/media/AVM_Two.JPG": "/static/media/AVM_Two.7b072718227d45d178e6.JPG",
+    "static/media/bgff_stripes_logo.png": "/static/media/bgff_stripes_logo.d813da3c5cb7b241cf81.png",
+    "static/media/GrapeNuts-Regular.ttf": "/static/media/GrapeNuts-Regular.2124a8f78a1e71ebc5c1.ttf",
+    "static/media/business_license.png": "/static/media/business_license.8117560cdbbe6c81c8b3.png",
+    "static/media/bgff_colorless.png": "/static/media/bgff_colorless.e493c573400850186867.png",
+    "static/media/bgff_flat.png": "/static/media/bgff_flat.441892f3182ede5c6799.png",
+    "static/media/MarkerFelt.ttf": "/static/media/MarkerFelt.219eeefda1ab175b7a5b.ttf",
+    "static/media/me.jpeg": "/static/media/me.ad6f14da8486b30e25fe.jpeg",
+    "static/media/worker.svg": "/static/media/worker.e7cf935a54e361fe70939b2217a59103.svg",
+    "static/media/coin.svg": "/static/media/coin.fc7782319c796e874d92fb4ff92c9212.svg",
+    "static/media/siren.svg": "/static/media/siren.796b2bc35f08aadf67fa1eef8c2c00b6.svg",
+    "static/media/business.svg": "/static/media/business.ff885559c9fbc7fbeeae4018b61a568b.svg",
+    "static/media/calculator.svg": "/static/media/calculator.b034dbcac0b672fd9de88bbf826f05d7.svg",
+    "static/media/wrench.svg": "/static/media/wrench.78e6c8459c530f4d4c314aad84755fde.svg",
+    "static/media/truck.svg": "/static/media/truck.2b72dce97419821786dd03ecb41a7650.svg",
+    "static/media/supervision.svg": "/static/media/supervision.22d9c9279ff410bd8074f1f6afd17f30.svg",
+    "index.html": "/index.html",
+    "static/media/electricity.svg": "/static/media/electricity.db37c09e20b7dd1dd197974c16973290.svg",
+    "static/media/right_arrow.svg": "/static/media/right_arrow.e97e53d18da137ce7564de1d6c2a1d94.svg",
+    "main.d5a7ac9a.css.map": "/static/css/main.d5a7ac9a.css.map",
+    "main.a30899e4.js.map": "/static/js/main.a30899e4.js.map",
+    "453.3576ec4f.chunk.js.map": "/static/js/453.3576ec4f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5a7ac9a.css",
+    "static/js/main.a30899e4.js"
+  ]
+}
